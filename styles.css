@@ -1,2 +1,22 @@
 
-/* Your CSS Code here. */
+.main-table{
+	border: 2px solid black;
+}
+.left-tab, .right-tab{
+	border: 2px solid black;
+	width: 100%;
+	
+}
+.left-down, .right-down{
+	border: 2px solid black;
+	width: 100%;
+	
+}
+.left-tab-inner{
+	border: 2px solid black;
+	width: 100%;
+}
+
+.left-tab-inner th, .left-tab-inner td{
+	border: 2px solid black;
+}
